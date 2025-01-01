@@ -12,7 +12,7 @@ Before setting up the frontend, ensure you have the following installed:
 ## Installation
 
 ### 1. Install Project Dependencies
-Once the NestJS CLI is installed, navigate to the project directory and install the necessary dependencies by running:
+Navigate to the project directory and install the necessary dependencies by running:
 
 ```bash
 npm install
@@ -20,7 +20,7 @@ npm install
 ### 2. Run the [Backend Server](https://github.com/fahimHasnat/corsult-library-manager-backend)
 This will connect the database and provide the APIs in the URL: localhost:8001
 
-### 3. Run the Development Server
+### 3. Run the Frontend Server
 ```
 npm run dev
 ```
